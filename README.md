@@ -39,30 +39,11 @@ DOWNLOAD SOURCE CODE FROM HERE =======>
 
 ---
 
-### 2️⃣ **DOWNLOAD SOURCE CODE FROM HERE =======> **
-
-```markdown
-GitHub Repository: [https://github.com/Pankajranher/Myecommerce-Source-code](https://github.com/Pankajranher/Myecommerce-Source-code)
-```
-
-          
----
-
 ## 👨‍💻 Author
 
 **Pankaj Ranher**
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* LinkedIn: [https://linkedin.com/in/pankaj-ranher](https://linkedin.com/in/pankaj-ranher)
 
 ---
 
-## ⭐ Support
-
-If you like this project, please give it a ⭐ on GitHub.
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
